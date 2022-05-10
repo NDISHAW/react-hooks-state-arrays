@@ -8,6 +8,7 @@ function App() {
       <SpicyFoodList />
     </div>
   );
+
 }
 
 export default App;
